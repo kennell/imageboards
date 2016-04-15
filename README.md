@@ -3,7 +3,7 @@
 
 ## Popular
 
-name | language/stack | comments | deployments
+name | language/stack | comments | well-known deployments
 -----| -------------- | ------ | --------
 [LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | all functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
 [vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/)
@@ -13,7 +13,7 @@ name | language/stack | comments | deployments
 [TinyIB](https://github.com/tslocum/TinyIB) | PHP + MySQL |  | 
 
 ## Various other
-name | language/stack | comments | deployments
+name | language/stack | comments | well-known deployments
 -----| -------------- | ------ | --------
 [4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | board engine only (JSON-based server-client architecture) |
 [doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
@@ -22,7 +22,7 @@ name | language/stack | comments | deployments
 
 ## Legacy, inactive or abandoned
 
-name | language/stack | comments | deployments
+name | language/stack | comments | well-known deployments
 -----| -------------- | ------ | --------
 [infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 |
