@@ -2,7 +2,6 @@
 :ramen: an overview of popular imageboard software
 
 ## Popular
-
 name | language/stack | comments | well-known deployments
 -----| -------------- | ------ | --------
 [LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | all functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
@@ -12,6 +11,7 @@ name | language/stack | comments | well-known deployments
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDMBS | textboard-only version of Wakaba |
 [TinyIB](https://github.com/tslocum/TinyIB) | PHP + MySQL |  | 
 
+
 ## Various other
 name | language/stack | comments | well-known deployments
 -----| -------------- | ------ | --------
@@ -20,14 +20,21 @@ name | language/stack | comments | well-known deployments
 [mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
 [meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
 
-## Legacy, inactive or abandoned
 
+## Legacy, inactive or abandoned
 name | language/stack | comments | well-known deployments
 -----| -------------- | ------ | --------
 [infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 |
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
 [Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | 
+
+
+## Closed source
+name | language/stack | comments | well-known deployments
+-----| -------------- | ------ | --------
+[Taimaba](https://taimapedia.org/index.php?title=Taimaba) | Perl + MySQL | Fork of Wakaba | [420chan](http://420chan.org)
+
 
 ### Other ressources
 * http://www.9ch.in/overscript/
