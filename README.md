@@ -10,7 +10,7 @@ vichan | PHP + MySQL | https://github.com/vichan-devel/vichan/ | Fork of Tinyboa
 infinity-next | PHP + RDMBS | https://github.com/infinity-next/infinity-next | Rewrite of infinity, built on top of the Laravel framework
 Wakaba | Perl + RDMBS | http://wakaba.c3.cx/s/web/wakaba_kareha | Inspired by Futaba and Futallaby
 Kareha | Perl + RDMBS | http://wakaba.c3.cx/s/web/wakaba_kareha | textboard-only version of Wakaba
-TinyIB | PHP + RDMBS | https://github.com/tslocum/TinyIB | 
+TinyIB | PHP + MySQL | https://github.com/tslocum/TinyIB | 
 
 ## Various other
 name | language/stack | source | comments
