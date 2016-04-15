@@ -25,7 +25,7 @@ name | language/stack | source | comments
 -----| -------------- | ------ | --------
 infinity | PHP + MySQL | https://github.com/ctrlcctrlv/infinity | deprecated in favor of vichan and/or infinity-next
 Kusaba X | PHP + RDMBS | http://kusabax.cultnet.net/ | no updates since 2013
-Edaha | PHP + RDMBS https://github.com/Edaha/Edaha | https://github.com/Edaha/Edaha | Fork of Kusaba X, no updates since 2013
+Edaha | PHP + RDMBS | https://github.com/Edaha/Edaha | Fork of Kusaba X, no updates since 2013
 Tinyboard | PHP + MySQL | https://github.com/savetheinternet/Tinyboard | 
 
 ### Other ressources
