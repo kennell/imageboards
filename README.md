@@ -1,6 +1,11 @@
 # imageboards
 :ramen: an overview of popular imageboard software
 
+* [Popular](#popular)
+* [Various other](#various-other)
+* [Legacy, inactive or abandoned](#legacy-inactive-or-abandoned)
+* [Closed source](#closed-source)
+
 ## Popular
 name | language/stack | comments | well-known deployments
 -----| -------------- | ------ | --------
