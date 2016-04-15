@@ -12,6 +12,12 @@ Wakaba | Perl + RDMBS | http://wakaba.c3.cx/s/web/wakaba_kareha | Inspired by Fu
 Kareha | Perl + RDMBS | http://wakaba.c3.cx/s/web/wakaba_kareha | textboard-only version of Wakaba
 TinyIB | PHP + RDMBS | https://github.com/tslocum/TinyIB | 
 
+## Various other
+name | language/stack | source | comments
+-----| -------------- | ------ | --------
+4jhan | NodeJS + RDMBS | https://github.com/phikal/4jhan-server | board engine only (JSON-based server-client architecture)
+doushio | NodeJS + Redis | https://github.com/lalcmellkmal/doushio | Real-time features
+meguca | Go + RethinkDB + Typescript | https://github.com/bakape/meguca | Real-time features
 
 ## Legacy, inactive or abandoned
 
