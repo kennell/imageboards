@@ -15,6 +15,7 @@ name | language/stack | comments | notable deployments
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDMBS |  Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDMBS | textboard-only version of Wakaba |
 [TinyIB](https://github.com/tslocum/TinyIB) | PHP + MySQL |  | 
+[Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
 
 ## Various other
