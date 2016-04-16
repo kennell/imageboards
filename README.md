@@ -33,6 +33,9 @@ name | language/stack | comments | well-known deployments
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 |
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
 [Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | 
+[Futaba](http://jun.2chan.net/script/) | PHP + MySQL | The godfather of imageboard scripts, used on 2chan |
+[Futallaby](http://www.1chan.net/futallaby/) | PHP + MySQL | Fork of Futaba
+
 
 
 ## Closed source
