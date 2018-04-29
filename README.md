@@ -25,7 +25,7 @@ name | language/stack | comments | notable deployments
 [doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
 [mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
 [meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
-
+[µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable | |
 
 ## Legacy, inactive or abandoned
 name | language/stack | comments | notable deployments
