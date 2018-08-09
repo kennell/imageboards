@@ -11,9 +11,9 @@ name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
 [LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | all functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
 [vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/), [Brchan](http://www.brchan.org/)
-[infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDMBS | Rewrite of infinity, built on top of the Laravel framework |
-[Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDMBS |  Inspired by Futaba and Futallaby |
-[Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDMBS | textboard-only version of Wakaba |
+[infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDBMS | Rewrite of infinity, built on top of the Laravel framework |
+[Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
+[Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
 [TinyIB](https://github.com/tslocum/TinyIB) | PHP + MySQL |  | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
@@ -25,7 +25,8 @@ name | language/stack | comments | notable deployments
 [doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
 [mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
 [meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
-[µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable | |
+[µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
+[Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
 
 ## Legacy, inactive or abandoned
 name | language/stack | comments | notable deployments
