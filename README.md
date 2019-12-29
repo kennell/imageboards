@@ -29,7 +29,9 @@ name | language/stack | comments | notable deployments
 [µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
 [Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
 [Picoboard](https://github.com/anonim-legivon/picoboard) | Django + React | |  
-[Hexchan](https://github.com/hexchan/hexchan-engine) | Django | | [Hexchan](https://hexchan.org/)
+[Hexchan](https://github.com/hexchan/hexchan-engine)  | Django | | [Hexchan](https://hexchan.org/)
+[Monaba](https://github.com/ahushh/Monaba) | Haskell + Yesod | | [Haibane](https://haibane.ru/)
+
 
 ## Legacy, inactive or abandoned
 name | language/stack | comments | notable deployments
