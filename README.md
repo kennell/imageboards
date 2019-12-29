@@ -28,6 +28,8 @@ name | language/stack | comments | notable deployments
 [meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
 [µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
 [Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
+[Picoboard](https://github.com/anonim-legivon/picoboard) | Django + React | |  
+[Hexchan](https://github.com/hexchan/hexchan-engine) | Django | | [Hexchan](https://hexchan.org/)
 
 ## Legacy, inactive or abandoned
 name | language/stack | comments | notable deployments
