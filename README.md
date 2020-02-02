@@ -21,7 +21,6 @@ name | language/stack | comments | notable deployments
 ## Various other
 name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
-[4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | board engine only (JSON-based server-client architecture) |
 [doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
 [mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
 [maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python, Docker | REST-API |  
@@ -46,7 +45,7 @@ name | language/stack | comments | notable deployments
 [Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | 
 [Futaba](http://jun.2chan.net/script/) | PHP + MySQL | The godfather of imageboard scripts, used on 2chan |
 [Futallaby](http://www.1chan.net/futallaby/) | PHP + MySQL | Fork of Futaba
-
+[4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | board engine only (JSON-based server-client architecture) |
 
 
 ## Closed source
