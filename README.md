@@ -14,7 +14,7 @@ name | language/stack | comments | notable deployments
 [infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDBMS | Rewrite of infinity, built on top of the Laravel framework |
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
-[TinyIB](https://github.com/tslocum/TinyIB) | PHP + MySQL |  | 
+[TinyIB](https://github.com/tslocum/TinyIB) | PHP + MySQL/PostgreSQL/SQLite/flatfile | [28chan](28chan.hopto.org/board/) | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
 
@@ -31,9 +31,6 @@ name | language/stack | comments | notable deployments
 [Hexchan](https://github.com/hexchan/hexchan-engine)  | Django | | [Hexchan](https://hexchan.org/)
 [Monaba](https://github.com/ahushh/Monaba) | Haskell + Yesod | | [Haibane](https://haibane.ru/)
 [makiba](https://github.com/maki64/makiba) | PHP | Futaba-style imageboard script that doesn't require a database.
-
-
-
 
 
 ## Legacy, inactive or abandoned
