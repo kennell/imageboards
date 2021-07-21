@@ -14,7 +14,7 @@ name | language/stack | comments | notable deployments
 [infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDBMS | Rewrite of infinity, built on top of the Laravel framework |
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
-[TinyIB](https://github.com/tslocum/TinyIB) | PHP + MySQL |  | 
+[TinyIB](https://code.rocketnine.space/tslocum/TinyIB) | PHP + MySQL | Inspired by Futaba and Futallaby | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 
 
