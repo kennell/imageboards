@@ -16,8 +16,7 @@ name | language/stack | comments | notable deployments
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
 [TinyIB](https://code.rocketnine.space/tslocum/TinyIB) | PHP + MySQL | Inspired by Futaba and Futallaby | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
-[FChannel](https://github.com/FChannel0/FChannel-Server) | Go + PostgreSQL | a libre, self-hostable, federated, imageboard platform that utilizes [ActivityPub](https://www.w3.org/TR/activitypub/) | [fchannel.org](https://fchannel.org/), [fchan.xyz](https://fchan.xyz/), [usagi.reisen](https://usagi.reisen/), [penchan.xyz](https://penchan.xyz/), [poopchan.org](https://poopchan.org/), [chan.cum.salon](https://chan.cum.salon/), [chan.getgle.org](https://chan.getgle.org/)
-
+[FChannel](https://github.com/FChannel0/FChannel-Server) | Go + PostgreSQL | a libre, self-hostable, federated, imageboard platform that utilizes [ActivityPub](https://www.w3.org/TR/activitypub/) | See https://fchannel.org/instance-index.html
 
 ## Various other
 name | language/stack | comments | notable deployments
