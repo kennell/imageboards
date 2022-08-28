@@ -24,7 +24,7 @@ name | language/stack | comments | notable deployments
 [doushio](https://github.com/lalcmellkmal/doushio) | NodeJS + Redis |  Real-time features |
 [mei](https://github.com/lulalala/mei) | Ruby on Rails + RDMBS | |  
 [maniwani](https://github.com/DangerOnTheRanger/maniwani) | Python, Docker | REST-API | [Futatsu](https://futatsu.org/)
-[meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features |
+[meguca](https://github.com/bakape/meguca) | Go + RethinkDB + Typescript |  Real-time features | [meguca](https://shamik.ooo)
 [µchan](https://github.com/Floens/uchan) | Python + PostgreSQL + TypeScript + Memcache + Varnish | Lightweight and scalable |
 [Nelliel](https://github.com/NellielProject/Nelliel) | PHP + RDBMS | Originally a fork of Futallaby |
 [Picoboard](https://github.com/anonim-legivon/picoboard) | Django + React | |  
