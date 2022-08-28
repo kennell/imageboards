@@ -11,7 +11,6 @@ name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
 [LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | all functionality exposed via JSON based RPC | [LynxHub](http://lynxhub.com/)
 [vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/), [Brchan](http://www.brchan.org/)
-[infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDBMS | Rewrite of infinity, built on top of the Laravel framework |
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
 [TinyIB](https://code.rocketnine.space/tslocum/TinyIB) | PHP + MySQL | Inspired by Futaba and Futallaby | 
@@ -39,6 +38,7 @@ name | language/stack | comments | notable deployments
 ## Legacy, inactive or abandoned
 name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
+[infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDBMS | Rewrite of infinity, built on top of the Laravel framework | [9chan](https://9chan.tw)
 [infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 |
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
