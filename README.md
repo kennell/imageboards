@@ -10,12 +10,13 @@
 name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
 [LynxChan](https://gitgud.io/LynxChan/LynxChan ) | NodeJS + MongoDB | all functionality exposed via JSON based RPC | [LynxHub](https://lynx.farted.net/lynx/)
-[vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/), [Brchan](http://www.brchan.org/)
+[Vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | 
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
 [TinyIB](https://code.rocketnine.space/tslocum/TinyIB) | PHP + MySQL | Inspired by Futaba and Futallaby | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 [FChannel](https://github.com/FChannel0/FChannel-Server) | Go + PostgreSQL | a libre, self-hostable, federated, imageboard platform that utilizes [ActivityPub](https://www.w3.org/TR/activitypub/) | See https://fchannel.org/instance-index.html
+[Infinity](https://github.com/odilitime/infinity) | PHP + MySQL | Maintained fork of infinity | 
 
 ## Various other
 name | language/stack | comments | notable deployments
@@ -30,16 +31,15 @@ name | language/stack | comments | notable deployments
 [Hexchan](https://github.com/hexchan/hexchan-engine)  | Django | | [Hexchan](https://hexchan.org/)
 [Monaba](https://github.com/ahushh/Monaba) | Haskell + Yesod | | [Haibane](https://haibane.ru/)
 [makiba](https://github.com/maki64/makiba) | PHP | Futaba-style imageboard script that doesn't require a database.
-
-
-
+[NPFchan](https://github.com/fallenPineapple/NPFchan) | PHP + MySQL | vichan branch | [Wizardchan](https://wizchan.org/)
 
 
 ## Legacy, inactive or abandoned
 name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
-[infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDBMS | Rewrite of infinity, built on top of the Laravel framework | [9chan](https://9chan.tw)
-[infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL |  deprecated in favor of vichan and/or infinity-next | [8chan](http://8ch.net)
+[OpenIB](https://github.com/OpenIB/OpenIB) | PHP + MySQL | Fork of infinity with a focus on security | [8kun](https://8kun.top/index.html)
+[Infinity-next](https://github.com/infinity-next/infinity-next) | PHP + RDBMS | Rewrite of infinity, built on top of the Laravel framework | [9chan](https://9chan.tw) (Defunct/looking for dev)
+[Infinity](https://github.com/ctrlcctrlv/infinity) | PHP + MySQL | deprecated in favor of vichan and/or openib | 8chan (now 8kun)
 [Kusaba X](http://kusabax.cultnet.net/) | PHP + RDMBS |  no updates since 2013 |
 [Edaha](https://github.com/Edaha/Edaha) | PHP + RDMBS |  Fork of Kusaba X, no updates since 2013 |
 [Tinyboard](https://github.com/savetheinternet/Tinyboard) | PHP + MySQL | | 
