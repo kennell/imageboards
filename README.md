@@ -31,10 +31,6 @@ name | language/stack | comments | notable deployments
 [Monaba](https://github.com/ahushh/Monaba) | Haskell + Yesod | | [Haibane](https://haibane.ru/)
 [makiba](https://github.com/maki64/makiba) | PHP | Futaba-style imageboard script that doesn't require a database.
 
-
-
-
-
 ## Legacy, inactive or abandoned
 name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
@@ -46,7 +42,7 @@ name | language/stack | comments | notable deployments
 [Futaba](http://jun.2chan.net/script/) | PHP + MySQL | The godfather of imageboard scripts, used on 2chan |
 [Futallaby](http://www.1chan.net/futallaby/) | PHP + MySQL | Fork of Futaba
 [4jhan](https://github.com/phikal/4jhan-server) | NodeJS + RDMBS | board engine only (JSON-based server-client architecture) |
-
+[futabilly](https://gitgud.io/sapphire/futabilly) | PHP/NodeJS/Redis | performance-focused JS-required imageboard (PHP, foolfuuka replacement) and very fast nodejs archiver (asagi replacement). Can add Sphinx for full-text search | 8archive (now defunct)
 
 ## Closed source
 name | language/stack | comments | notable deployments
