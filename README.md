@@ -16,6 +16,7 @@ name | language/stack | comments | notable deployments
 [TinyIB](https://code.rocketnine.space/tslocum/TinyIB) | PHP + MySQL | Inspired by Futaba and Futallaby | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 [FChannel](https://github.com/FChannel0/FChannel-Server) | Go + PostgreSQL | a libre, self-hostable, federated, imageboard platform that utilizes [ActivityPub](https://www.w3.org/TR/activitypub/) | See https://fchannel.org/instance-index.html
+[JSChan](https://gitgud.io/fatchan/jschan) | NodeJS + MongoDB | Anonymous imageboard software. Classic look, modern features and feel. Works without JavaScript and supports Tor, I2P, Lokinet, etc | [94chan](https://94chan.org/) [ptchan](https://ptchan.org/)
 
 ## Various other
 name | language/stack | comments | notable deployments
@@ -30,7 +31,7 @@ name | language/stack | comments | notable deployments
 [Hexchan](https://github.com/hexchan/hexchan-engine)  | Django | | [Hexchan](https://hexchan.org/)
 [Monaba](https://github.com/ahushh/Monaba) | Haskell + Yesod | | [Haibane](https://haibane.ru/)
 [makiba](https://github.com/maki64/makiba) | PHP | Futaba-style imageboard script that doesn't require a database.
-
+[Double Plus](https://gitgud.io/odilitime/lynxphp) | PHP + MySQL/PostgresSQL | Modular Modern Imageboard, works without JS | [wrongthink](https://wrongthink.net)
 
 
 
