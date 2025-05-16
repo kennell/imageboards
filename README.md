@@ -13,7 +13,8 @@ name | language/stack | comments | notable deployments
 [vichan](https://github.com/vichan-devel/vichan/) | PHP + MySQL | Fork of Tinyboard | [Wizardchan](https://wizchan.org/), [Brchan](http://www.brchan.org/)
 [Wakaba](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS |  Inspired by Futaba and Futallaby |
 [Kareha](http://wakaba.c3.cx/s/web/wakaba_kareha) | Perl + RDBMS | textboard-only version of Wakaba |
-[TinyIB](https://code.rocketnine.space/tslocum/TinyIB) | PHP + MySQL | Inspired by Futaba and Futallaby | 
+[Sriracha](https://codeberg.org/tslocum/sriracha) | Go + PostgreSQL | Supports plugins and custom templates | 
+[TinyIB](https://codeberg.org/tslocum/tinyib) | PHP + PostgreSQL, MySQL, SQLite, Flat File | Inspired by Futaba and Futallaby | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 [FChannel](https://github.com/FChannel0/FChannel-Server) | Go + PostgreSQL | a libre, self-hostable, federated, imageboard platform that utilizes [ActivityPub](https://www.w3.org/TR/activitypub/) | See https://fchannel.org/instance-index.html
 [JSChan](https://gitgud.io/fatchan/jschan) | NodeJS + MongoDB | Anonymous imageboard software. Classic look, modern features and feel. Works without JavaScript and supports Tor, I2P, Lokinet, etc | [94chan](https://94chan.org/) [ptchan](https://ptchan.org/)
