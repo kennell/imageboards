@@ -17,7 +17,7 @@ name | language/stack | comments | notable deployments
 [TinyIB](https://codeberg.org/tslocum/tinyib) | PHP + PostgreSQL, MySQL, SQLite, Flat File | Inspired by Futaba and Futallaby | 
 [Lainchan](https://github.com/lainchan/lainchan/) | PHP + MySQL | Fork of vichan | [Lainchan](https://lainchan.org/)
 [FChannel](https://github.com/FChannel0/FChannel-Server) | Go + PostgreSQL | a libre, self-hostable, federated, imageboard platform that utilizes [ActivityPub](https://www.w3.org/TR/activitypub/) | See https://fchannel.org/instance-index.html
-[JSChan](https://gitgud.io/fatchan/jschan) | NodeJS + MongoDB | Anonymous imageboard software. Classic look, modern features and feel. Works without JavaScript and supports Tor, I2P, Lokinet, etc | [94chan](https://94chan.org/) [ptchan](https://ptchan.org/)
+[JSChan](https://gitgud.io/fatchan/jschan) | NodeJS + MongoDB | Anonymous imageboard software. Classic look, modern features and feel. Works without JavaScript and supports Tor, I2P, Lokinet, etc | [heolkek](https://heolkek.cafe) [zzzchan](https://zzzchan.xyz) [ptchan](https://ptchan.org/) [sportschan](https://sportschan.org)
 
 ## Various other
 name | language/stack | comments | notable deployments
