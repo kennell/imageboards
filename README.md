@@ -6,6 +6,10 @@
 * [Legacy, inactive or abandoned](#legacy-inactive-or-abandoned)
 * [Closed source](#closed-source)
 
+*Sponsored by:*
+
+[![VPN Detection](focsec.png)](https://focsec.com)
+
 ## Popular
 name | language/stack | comments | notable deployments
 -----| -------------- | ------ | --------
