@@ -35,7 +35,7 @@ name | language/stack | comments | notable deployments
 [Picoboard](https://github.com/anonim-legivon/picoboard) | Django + React | |  
 [Hexchan](https://github.com/hexchan/hexchan-engine)  | Django | | [Hexchan](https://hexchan.org/)
 [Monaba](https://github.com/ahushh/Monaba) | Haskell + Yesod | | [Haibane](https://haibane.ru/)
-[makiba](https://github.com/maki64/makiba) | PHP | Futaba-style imageboard script that doesn't require a database.
+[makiba](https://github.com/BubblySovereign/makiba) | PHP | Futaba-style imageboard script that doesn't require a database.
 [Double Plus](https://gitgud.io/odilitime/lynxphp) | PHP + MySQL/PostgresSQL | Modular Modern Imageboard, works without JS | [wrongthink](https://wrongthink.net)
 
 
